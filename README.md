@@ -1,4 +1,4 @@
-### Hi there 👋
+## :space_invader: Badges ##
 
 
 <img src="https://tryhackme-badges.s3.amazonaws.com/hoorrorclause.png" alt="TryHackMe" width="200"> <img src="https://www.codewars.com/users/horrorclause/badges/large" width="300"> 
