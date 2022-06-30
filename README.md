@@ -1,9 +1,7 @@
 ### Hi there 👋
 
 
-<img src="https://tryhackme-badges.s3.amazonaws.com/hoorrorclause.png" alt="TryHackMe">
-
-<img src="https://www.codewars.com/users/horrorclause/badges/large"> 
+<img src="https://tryhackme-badges.s3.amazonaws.com/hoorrorclause.png" alt="TryHackMe"> <img src="https://www.codewars.com/users/horrorclause/badges/large"> 
 
 <!--
 **horrorclause/horrorclause** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
