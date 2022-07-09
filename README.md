@@ -32,8 +32,6 @@
 ### "Can it wait for a bit? I'm in the middle of some calibrations." ###
 
 
-
-
 <!--
 **horrorclause/horrorclause** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
