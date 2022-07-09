@@ -23,7 +23,7 @@
   <img align="left" width="450"src="https://github-readme-stats.vercel.app/api?username=horrorclause&count_private=true&show_icons=true&include_all_commits=true&theme=outrun" />
 </a>
 <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=horrorclause&hide=TeX&layout=compact&theme=ocean_dark">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=horrorclause&hide=TeX&layout=compact&theme=ocean_dark" />
+  <img align="center" width="375" src="https://github-readme-stats.vercel.app/api/top-langs/?username=horrorclause&hide=TeX&layout=compact&theme=ocean_dark" />
 </a>
 
 <br />
