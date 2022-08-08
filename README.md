@@ -3,7 +3,11 @@
 <img src="https://images.credly.com/size/340x340/images/ba1b8072-8ebe-432c-88e5-05bc809c624a/CompTIA_CSAP.png" width="100"> <img src="https://images.credly.com/size/340x340/images/5cb4b153-44d8-410c-97c6-6afba3faa4af/Comptia_CySA_2Bce.png" width="100"> <img src="https://images.credly.com/size/340x340/images/74790a75-8451-400a-8536-92d792c5184a/CompTIA_Security_2Bce.png" width="100"> <img src="https://images.credly.com/size/340x340/images/e1fc05b2-959b-45a4-8d20-124b1df121fe/CompTIA_Network_2Bce.png" width="100">
 
 
-<img src="https://tryhackme-badges.s3.amazonaws.com/hoorrorclause.png" alt="TryHackMe" width="200"> <img src="https://www.codewars.com/users/horrorclause/badges/large" width="300"> 
+<img src="https://tryhackme-badges.s3.amazonaws.com/hoorrorclause.png" alt="TryHackMe" width="200"> <img src="https://www.codewars.com/users/horrorclause/badges/large" width="300">
+
+<a href="https://www.abuseipdb.com/user/82691" title="AbuseIPDB is an IP address blacklist for webmasters and sysadmins to report IP addresses engaging in abusive behavior on their networks">
+	<img src="https://www.abuseipdb.com/contributor/82691.svg" alt="AbuseIPDB Contributor Badge" style="width: 212px;border-radius: 5px;border-top: 5px solid #058403;border-right: 5px solid #111;border-bottom: 5px solid #111;border-left: 5px solid #058403;padding: 5px;">
+</a>
 
 <br />
 
