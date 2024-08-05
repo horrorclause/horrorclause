@@ -1,12 +1,20 @@
 ## :space_invader: Badges ##
 
-<img src="https://github.com/horrorclause/horrorclause/assets/10188810/0add74a4-5a6b-4a91-9d41-e33e5ac16986" width="100"><img src="https://github.com/horrorclause/horrorclause/assets/10188810/c68a75d4-27de-4dc7-bd02-9daf40e5f660" width="100">
-<img src="https://images.credly.com/size/680x680/images/d7f68b5e-5282-4697-8a1e-7e6e16d7d45f/btl1certified.png" width="100">
-<img src="https://images.credly.com/size/680x680/images/6f68e302-2193-4cbc-b2d9-50541a130ffa/CompTIA_CNSP.png" width="100"> <img src="https://images.credly.com/size/340x340/images/ba1b8072-8ebe-432c-88e5-05bc809c624a/CompTIA_CSAP.png" width="100"> <img src="https://images.credly.com/size/340x340/images/5cb4b153-44d8-410c-97c6-6afba3faa4af/Comptia_CySA_2Bce.png" width="100"><img src="https://images.credly.com/size/680x680/images/87ef04a1-b68d-4c11-acaf-a5b1d4c2c9ea/CompTIA_PenTest_2B.png" width="100"> <img src="https://images.credly.com/size/340x340/images/74790a75-8451-400a-8536-92d792c5184a/CompTIA_Security_2Bce.png" width="100"> <img src="https://images.credly.com/size/340x340/images/e1fc05b2-959b-45a4-8d20-124b1df121fe/CompTIA_Network_2Bce.png" width="100"> <img src="https://images.credly.com/size/680x680/images/53acdae5-d69f-4dda-b650-d02ed7a50dd7/image.png" width="100"> <img src="https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" width="100">
+<img src="https://github.com/horrorclause/horrorclause/assets/10188810/0add74a4-5a6b-4a91-9d41-e33e5ac16986" width="100"> <img src="https://github.com/horrorclause/horrorclause/assets/10188810/c68a75d4-27de-4dc7-bd02-9daf40e5f660" width="100"> 
+<img src="https://images.credly.com/size/680x680/images/d7f68b5e-5282-4697-8a1e-7e6e16d7d45f/btl1certified.png" width="100"> 
+<img src="https://images.credly.com/size/680x680/images/6f68e302-2193-4cbc-b2d9-50541a130ffa/CompTIA_CNSP.png" width="100"> 
+<img src="https://images.credly.com/size/340x340/images/ba1b8072-8ebe-432c-88e5-05bc809c624a/CompTIA_CSAP.png" width="100"> 
+<img src="https://images.credly.com/size/340x340/images/5cb4b153-44d8-410c-97c6-6afba3faa4af/Comptia_CySA_2Bce.png" width="100">
+<img src="https://images.credly.com/size/680x680/images/87ef04a1-b68d-4c11-acaf-a5b1d4c2c9ea/CompTIA_PenTest_2B.png" width="100"> 
+<img src="https://images.credly.com/size/340x340/images/74790a75-8451-400a-8536-92d792c5184a/CompTIA_Security_2Bce.png" width="100"> 
+<img src="https://images.credly.com/size/340x340/images/e1fc05b2-959b-45a4-8d20-124b1df121fe/CompTIA_Network_2Bce.png" width="100"> 
+<img src="https://images.credly.com/size/680x680/images/53acdae5-d69f-4dda-b650-d02ed7a50dd7/image.png" width="100"> 
+<img src="https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" width="100">
 
-<img src="https://tryhackme-badges.s3.amazonaws.com/hoorrorclause.png" alt="TryHackMe">
 
-<a href="https://www.abuseipdb.com/user/82691" title="AbuseIPDB is an IP address blacklist for webmasters and sysadmins to report IP addresses engaging in abusive behavior on their networks">
+
+
+<img src="https://tryhackme-badges.s3.amazonaws.com/hoorrorclause.png" alt="TryHackMe"><a href="https://www.abuseipdb.com/user/82691" title="AbuseIPDB is an IP address blacklist for webmasters and sysadmins to report IP addresses engaging in abusive behavior on their networks">
 	<img src="https://www.abuseipdb.com/contributor/82691.svg" alt="AbuseIPDB Contributor Badge" style="width: 212px;border-radius: 5px;border-top: 5px solid #058403;border-right: 5px solid #111;border-bottom: 5px solid #111;border-left: 5px solid #058403;padding: 5px;">
 </a>
 
