@@ -1,7 +1,6 @@
 ## :space_invader: Badges ##
 
 <img src="https://github.com/horrorclause/horrorclause/assets/10188810/0add74a4-5a6b-4a91-9d41-e33e5ac16986" width="100"> <img src="https://github.com/horrorclause/horrorclause/assets/10188810/c68a75d4-27de-4dc7-bd02-9daf40e5f660" width="100"> 
-<img src="https://images.credly.com/size/680x680/images/d7f68b5e-5282-4697-8a1e-7e6e16d7d45f/btl1certified.png" width="100">
 <img src="https://images.credly.com/size/680x680/images/93d16d4a-223f-41bd-aaad-6a491b7b1fa8/CompTIA_CSAE.png" width="100">
 <img src="https://images.credly.com/size/680x680/images/4e8cb067-ff0a-4b3e-bf5d-7290ba25d0d6/CompTIA_CSIE.png" width="100">
 <img src="https://images.credly.com/size/680x680/images/7b0fab0d-c9d5-409d-bdc0-1772143cdab1/CompTIA_CASP_2Bce.png" width="100"> 
