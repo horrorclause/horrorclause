@@ -16,10 +16,6 @@
 <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=horrorclause&hide=TeX&layout=compact&theme=ocean_dark">
   <img align="center" width="375" src="https://github-readme-stats.vercel.app/api/top-langs/?username=horrorclause&hide=TeX&layout=compact&theme=ocean_dark" />
 </a>
-
-[![roadmap.sh](https://roadmap.sh/card/tall/678e723e98c00f7117877fc6?variant=dark&roadmaps=backend%2Cai-engineer%2Cpython)](https://roadmap.sh)
-
-<br />
 <br />
 
 ### "Can it wait for a bit? I'm in the middle of some calibrations." ###
